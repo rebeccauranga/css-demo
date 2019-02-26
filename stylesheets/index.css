@@ -1,8 +1,12 @@
 
 /* These are the styles for the whole document. (Using an asterick */
 
-.main-title 
-{
-    background: red;
+.main-title {
+    background: rgb(170, 228, 255);
 }
 
+.fancy-font, .navbar {
+    font-family: 'Montserrat', sans-serif;
+
+    color: rgb(51, 75, 82);
+}
