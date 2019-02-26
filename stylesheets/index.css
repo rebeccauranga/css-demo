@@ -3,10 +3,11 @@
 
 .main-title {
     background: rgb(170, 228, 255);
+    padding: 10px 35px;
+    margin: 0;
 }
 
 .fancy-font, .navbar {
     font-family: 'Montserrat', sans-serif;
-
     color: rgb(51, 75, 82);
 }
