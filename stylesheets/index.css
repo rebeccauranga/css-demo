@@ -11,3 +11,28 @@
     font-family: 'Montserrat', sans-serif;
     color: rgb(51, 75, 82);
 }
+
+.navbar ul {
+    padding-left: 0;
+}
+
+.navbar li {
+    color: #6A929E;
+    list-style: none;
+}
+
+.main-image {
+    width: 500px;
+}
+
+.main-image img {
+    width: 100%;
+}
+
+.cat-image {
+    background-image: url(../images/cat-paw-on-laptop.jpeg);
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
